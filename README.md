@@ -4,12 +4,29 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igordevnet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=igordevnet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igordevnet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+<div align="center">  
+  <img width="49%" height="195px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=igordevnet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igordevnet&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+# 📊 Sequência
 ---
-[![](https://visitcount.itsvg.in/api?id=igordevnet&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height="160em" 
+       src="https://streak-stats.demolab.com?user=igordevnet&theme=tokyonight&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" />
+</div>
+
+# 📈 Atividade
+---
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=igordevnet&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
