@@ -69,6 +69,10 @@ My current focus is on building resilient, scalable, and high-performance system
 <table>
   <tr>
     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
@@ -93,10 +97,6 @@ My current focus is on building resilient, scalable, and high-performance system
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       <br>AWS
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="AWS Lambda" />
-      <br>AWS Lambda
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
