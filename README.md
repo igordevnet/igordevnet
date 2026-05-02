@@ -198,7 +198,7 @@ My current focus is on building resilient, scalable, and high-performance system
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=igordevnet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   
   <img width="41%" height="195px" 
-       src="https://language-count.joaopdias.dev.br/?username=igordevnet" />
+       src="https://language-count.joaopdias.dev.br/?username=igordevnet&card_width=560&theme=blue" />
 </div>
 
 <div align="center">
